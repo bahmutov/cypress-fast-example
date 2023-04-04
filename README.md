@@ -1,10 +1,12 @@
 # cypress-fast-example
 
-> An example E2E test for Microsoft FAST design Select element.
+> An example E2E test for Microsoft [FAST design](https://www.fast.design/) Select element.
 
 ![The select test](./images/select.png)
 
 See [select.cy.js](./cypress/e2e/select.cy.js)
+
+Select element take from [this example](https://explore.fast.design/components/fast-select), see [index.html](./index.html)
 
 ## Small print
 
