@@ -1,0 +1,17 @@
+{
+  "name": "cypress-fast-example",
+  "version": "1.0.0",
+  "description": "An example E2E test for Microsoft FAST design Select element",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "prettier": "^2.8.7"
+  }
+}
