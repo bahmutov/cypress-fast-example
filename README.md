@@ -8,6 +8,8 @@ See [select.cy.js](./cypress/e2e/select.cy.js)
 
 Select element take from [this example](https://explore.fast.design/components/fast-select), see [index.html](./index.html)
 
+📺 Watch video [Test Microsoft FAST Design Library Select Web Component](https://youtu.be/kkI2smDVlqo)
+
 ## Small print
 
 Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2023
